@@ -1,0 +1,71 @@
+#menu{
+	margin: auto;
+	width: 800px;
+	margin-top: 54px;
+	z-index: -1;
+	border: 2px solid;
+}
+#play{
+	margin-left: 45%;
+	position: relative;
+	margin-top: 10px;
+}
+#play1{
+	border: none;
+	padding: : 15px 30px;
+	margin: auto;
+	cursor: pointer;
+	font-family: "KG Blank Space Sketch";
+	font-size: 40px;
+	background-color: #fff;
+}
+#map1:active, #map2:active, #map3:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#arena{
+	position: absolute;
+	top: 80px;
+	left: 50px;
+}
+#map1{
+	position: absolute;
+	padding: 20px 30px;
+	font-size: 20px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #ef9207;
+	background-color: #000000;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 9px #999;
+}
+#map2{
+	position: absolute;
+	top: 139px;
+	padding: 20px 30px;
+	font-size: 20px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #ef9207;
+	background-color: #000000;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 9px #999;
+}
+#map3{
+	position: absolute;
+	top:280px;
+	padding: 20px 30px;
+	font-size: 20px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #ef9207;
+	background-color: #000000;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 9px #999;
+}
