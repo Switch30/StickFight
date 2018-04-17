@@ -1,0 +1,47 @@
+<html>
+	<head>
+		<title>FINAL PROJECT</title>
+		<link rel="stylesheet" type="text/css" href="css/gameFinal.css">
+	</head>
+	<body>
+		<button type="button" id="home" onclick="home()">HOME</button>
+		<div class="container">
+			<div id="gameArea">
+				<div id="healthBars">
+					<div class="healthLevel">
+						<strong>PLAYER 1</strong><br>
+						<span id="p1Kill">0</span> KO
+					</div>
+					<div class="health">
+						<span class="fill" id="p1Health"></span>
+					</div>
+					<div class="health">
+						<span class="fill" id="p2Health"></span>
+					</div>
+					<div class="healtlevel">
+						<strong>PLAYER 2</strong><br>
+						<span id="p2Kill">0</span> KO
+					</div>
+				</div>
+				<canvas id="myCanvas"></canvas>
+				<div id="control">
+					<table width="100%">
+						<tr>
+							<td><strong>PLAYER 1</strong></td>
+							<td align="right"><strong>PLAYER 2</strong></td>
+						</tr>
+						<tr>
+							<td><p>Control: W,A,D</p></td>
+							<td align="right"><p>Control: Arrow UP,Arrow Left,Arrow Right</p></td>
+						</tr>
+						<tr>
+							<td><p>Attack: S</p></td>
+							<td align="right"><p>Attack: Arrow Down</p></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		<script src="js/gameFinal.js"></script>
+	</body>
+</html>
