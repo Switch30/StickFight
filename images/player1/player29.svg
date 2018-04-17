@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="player-model" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="75px" height="100px" viewBox="0 0 75 100" enable-background="new 0 0 75 100" xml:space="preserve">
+<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="37.645" cy="24.75" rx="23" ry="23"/>
+<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M37.645,47.75C26.642,52.15,24.787,70,24.787,70"/>
+<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="24.787,70 25.718,85.795 17.25,100 "/>
+<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="24.787,70 34.993,83.775 32,100 "/>
+<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="37.645,47.75 24.787,53.146 32.066,69.216 
+	"/>
+<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="37.645,47.75 52.576,54.343 69.606,54.474 
+	"/>
+</svg>
